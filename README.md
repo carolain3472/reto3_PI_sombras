@@ -1,7 +1,7 @@
 # reto3_PI_sombras
 <div align=center justify= center>
 
-<h1>Proyecto Integrador - Clase 4 - Texturas, luces y sombras</h1>
+<h1>Proyecto Integrador - Clase 4 </h1>
 
 </div>
 
